@@ -1,6 +1,4 @@
-# About me👋![download](https://github.com/user-attachments/assets/16b4278a-2083-4410-9b0c-11c31efc3eb3)
-
-
+# About me👋 
 
 
 - 🔭 I’m currently working on improving my programming skills
